@@ -1,0 +1,23 @@
+
+.userTable {
+    border-spacing: 0px 40px;
+    float: left;
+    margin: 50px;
+    width: 200px;
+}
+
+.userTable td {
+    padding: 10px;
+}
+
+.userTable th {
+    color: red;
+}
+
+.userTable tbody tr {
+    color: blue;
+}
+
+.hidden {
+    display: none;
+}
